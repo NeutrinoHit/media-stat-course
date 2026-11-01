@@ -1,0 +1,24 @@
+{
+ "schema": 1,
+ "home": "media-stat-course",
+ "title": "NeutrinoHit films: statistics course",
+ "budget_bytes": 900000000,
+ "media": [
+  {
+   "id": "opticks-juno",
+   "variant": "film",
+   "version": 1,
+   "file": "opticks-juno/film-v1.mp4",
+   "asset": "opticks-juno--film--v1.mp4",
+   "release": "opticks-juno",
+   "url": "https://github.com/NeutrinoHit/media-stat-course/releases/download/opticks-juno/opticks-juno--film--v1.mp4",
+   "sha256": "634366bb29e169f793e1f90e723c7b83ab58de8840937ab966ce853685134464",
+   "bytes": 51175479,
+   "duration_s": 125.5,
+   "width": 1280,
+   "height": 720,
+   "audio": true,
+   "credit": "Simon Blyth, Opticks (JUNO)"
+  }
+ ]
+}
